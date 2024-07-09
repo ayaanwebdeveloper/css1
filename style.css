@@ -1,0 +1,49 @@
+ #a {
+
+    background-color: red;
+    text-align: center;
+    color: white;
+ }
+
+
+ #intro {
+    text-align: center;
+    background-color: aqua;
+font-size: 30px;
+    color: hsl(0, 0%, 100%);
+ }
+ 
+#tb {
+    color: red;
+    border-style: dotted;
+    border-color: blue;
+    border: 5px solid red;
+
+
+}
+#hello {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+#Lorem {
+border: 5px solid rgb(25, 0, 255);
+    font-size: 20px;
+    border-radius: 12px;
+    padding: 5px;
+}
+#ayaan {
+    background-color: rgb(0, 59, 35);
+    color: white;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#cid {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+#search {
+    align-items: center;
+}
+
